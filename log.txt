@@ -305,3 +305,4 @@ Crypto note for 2020-05-09 12:00:00
 Crypto note for 2020-05-10 12:00:00
 Crypto note for 2020-05-11 12:00:00
 Crypto note for 2020-05-12 12:00:00
+Crypto note for 2020-05-13 12:00:00
