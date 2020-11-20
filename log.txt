@@ -496,3 +496,4 @@ Crypto note for 2020-11-16 12:00:00
 Crypto note for 2020-11-17 12:00:00
 Crypto note for 2020-11-18 12:00:00
 Crypto note for 2020-11-19 12:00:00
+Crypto note for 2020-11-20 12:00:00
